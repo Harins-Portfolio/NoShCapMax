@@ -51,5 +51,5 @@ This project was built step-by-step to demonstrate systemic analytical progressi
 ## 5. Contact & Consulting Alignment
 Developed by **Nikhil Harins** — Madrid, ES.  
 Interested in deploying optimization data pipelines into your commercial operations? Let's talk.
-* **LinkedIn:** [linkedin.com/in/nikhilharins](https://linkedin.com/in/nikhilharins)
+* **LinkedIn:** [linkedin.com/in/nikhilharins](https://linkedin.com/in/nharins)
 * **Portfolio Hub:** [Link to your Reflex App Website]
