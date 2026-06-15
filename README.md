@@ -23,7 +23,7 @@ Unscheduled appointment vacancies result in severe operational capacity wastage,
 
 The analytical lifecycle travels through a strict step-by-step evolution across the folders:
 
-* **📁 `core_notebooks/` (Classroom Analytical Blueprint):**
+* **📁 `core_notebooks/` (Analytical Blueprint):**
   * **S01 - Problem Framing:** Translating organizational losses into a measurable KPI matrix and initial PECO hypotheses.
   * **S02 - Tabular Foundations:** Opening the framework at scale with `pandas` to expose initial structural behaviors.
   * **S03 - Data Preparation:** Encapsulating messy, ad-hoc transformations into reproducible pipelines.
@@ -61,5 +61,5 @@ Instead of throwing capital at unsegmented automated alert notifications, the en
 ---
 ## 6. Contact & Consulting Strategy
 Developed by **Nikhil Harins** — Madrid, ES.  
-* **LinkedIn:** [linkedin.com/in/nikhilharins](https://linkedin.com/in/nikhilharins)
+* **LinkedIn:** [linkedin.com/in/nharins](https://linkedin.com/in/nharins)
 * **Portfolio Hub:** [Link to your Reflex App Website]
