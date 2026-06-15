@@ -28,8 +28,8 @@ The analytical lifecycle travels through a strict step-by-step evolution across 
   * **S02 - Tabular Foundations:** Opening the framework at scale with `pandas` to expose initial structural behaviors.
   * **S03 - Data Preparation:** Encapsulating messy, ad-hoc transformations into reproducible pipelines.
   * **S04 - Visual Storytelling:** Grouping tabular metrics into target visual patterns for executive presentation.
-* **📁 `docs/` (Strategic Iteration Canvas):**
-  * Tracks the evolutionary growth of the `Project Canvas` (v1 to v3), documenting how business assumptions shifted as raw numbers surfaced.
+* **📁 `canvas/` (Strategic Iteration Canvas):**
+  * Tracks the evolutionary growth of the `Project Canvas` (v1 to v4), documenting how business assumptions shifted as raw numbers surfaced.
 * **📁 `production_scripts/` (Independent Validation Asset):**
   * **`EDA_NoShow_Harins_Final.ipynb`**: My individual, unguided technical assessment executed on an entirely fresh subset of 20,050 real-world entries, proving end-to-end extraction autonomy.
 
